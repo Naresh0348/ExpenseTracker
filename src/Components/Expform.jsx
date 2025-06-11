@@ -4,7 +4,7 @@ function Expform() {
     const [expense, setExpense] = useState({
         expense:"",
         amount:"",
-        expense:"",
+        date:"",
 
     });
 
