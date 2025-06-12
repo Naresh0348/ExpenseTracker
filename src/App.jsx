@@ -1,6 +1,8 @@
 import React from 'react';
-import ExpForm from './Components/expform';
 import './App.css';
+import ExpForm from './Components/ExpForm';
+
+
 
 function App() {
   return (
