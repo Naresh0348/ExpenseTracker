@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import ExpenseSummary from './expensesummary';
+import ExpenseSummary from './ExpenseSummary';
 
 
 function ExpForm() {
