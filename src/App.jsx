@@ -7,7 +7,7 @@ import ExpForm from './Components/expform';
 function App() {
   return (
     <div style={{ padding: '2rem' }}>
-      <h1>Expense Tracker</h1>
+      <h1>Expense Tracker :</h1>
       <ExpForm/>
     </div>
   );
